@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_adc84e54c71f27b722b9791b308b79e2049c9589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_40163929049b9073fdb3ea103abca4d50efefb37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_d80eadb171bd021c1c4fe9094956f12b53eac975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c38ea96031030d6ac600dc250145c0ce601fd960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e93ba5330eadbce7ba10fc66aabcd5a0ff45f632\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_976edfd6828c3ac13f1b8e84a73de549e9f2a6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ddf4830a4626d13801b89fe6fd94bdbc88fda148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_516652c844dc3aef43f228b03820d223567dbb05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ab1471ef853c3aa301a275db659eecdf6ea056a2">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_009ecee3be882386d899f83232451004ebde3072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7848c5a844c2189dffd52bceaf538fb37eb0cc0">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d01c11db35df494dcca776934ef3205e330543ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_38a1119025ecabcbede28840df013dd9397acf4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d7515766092965f0c52635c020e17d69fb665ee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_dc43f0abb2aba8f8d9f3692bdc729efcd0c7eed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7abdeadec6a366da23ff4bd2baa76eda23287085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f1ee7233b2162ca85eb9cd75a1c53e410696ef28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_0023194ed92c3e00b099b390d7ab183a1362faef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tomwy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\tomwy\Google Drive\College\Mobile_dev_sec\Project\Sketchyappv2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_8097eedce7249e98417a0ff295c0d948a26242b9\classes.dex" />
+    </item>
+
+</items>
